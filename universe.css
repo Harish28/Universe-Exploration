@@ -1,0 +1,33 @@
+body {
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+}
+
+.btn {
+    padding: 10px 25px;
+    font-size: large;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #82a5ca;
+    font-weight: bold;
+}
+.universe {
+    background-image: url("images/universe.gif");
+    padding: 10px 0 40px 0;
+}
+.underline {
+    text-decoration: underline;
+    
+}
+
+img {
+    margin-top: 20px;
+    width: 100px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
